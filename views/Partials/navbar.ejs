@@ -1,0 +1,26 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark" style="font-family: 'Roboto Slab', serif; font-size: 1.2em;">
+    <div class="container-fluid">
+      <a class="navbar-brand px-3 pt-1" href="/gyms" style="font-size: 1.5em;">FitHit</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <div class="navbar-nav">
+            <a class="nav-link px-3"  href="/gyms">Home</a>
+            <% if(currentUser) { %> 
+            <a class="nav-link px-3" href="/gyms/new">Add Fitness Centre</a>
+            <a class="nav-link px-3 "  href="/logout">LogOut</a>
+              <% }else{ %> 
+                <a class="nav-link px-3"  href="/login">LogIn</a>
+              <a class="nav-link px-3"  href="/register">Register</a>
+                <% } %>     
+        </div>
+        <div class="navbar-nav ms-auto">
+            <form class="d-flex px-3" action="/gyms" method="get">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name="search">
+              <button class="btn btn-outline-light" type="submit">Search</button>
+            </form>
+        </div>
+      </div>
+    </div>
+  </nav>
