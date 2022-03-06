@@ -1,6 +1,6 @@
 # FitHit #
 
-![Main](https://user-images.githubusercontent.com/61474876/156336905-8f5151d3-396b-45c1-92c3-c50bd2b04f22.jpg)
+![pic1](https://user-images.githubusercontent.com/61474876/156922855-6dbeb74d-9605-4027-98f0-c9006623eaaf.jpg)
 
 View Website : [Fithit](https://fithit.herokuapp.com/)
 
@@ -13,9 +13,9 @@ This project was created using HTMl, CSS, JavaScript, Node.js, Express, MongoDB,
 * Users can review fitness centres, and edit or remove their review
 * Search fitness centres by name 
 
-![Page1](https://user-images.githubusercontent.com/61474876/156338927-6604c68d-3f96-4a66-b985-e8e23d10c29f.jpg)
+![pic2](https://user-images.githubusercontent.com/61474876/156922856-64ce5c01-aa89-42c6-803e-45f92f85bfb1.jpg)
 
-![Page2](https://user-images.githubusercontent.com/61474876/156338934-709f3411-d254-46b3-9d5e-b75c01d34a07.jpg)
+![pic3](https://user-images.githubusercontent.com/61474876/156922853-9033efd6-cb46-4fd4-8d74-8821231b5ff5.jpg)
 
 
 # Built With #
@@ -24,3 +24,8 @@ This project was created using HTMl, CSS, JavaScript, Node.js, Express, MongoDB,
 * MongoDB - The database for modern applications
 * Mongoose - Elegant MongoDB object modeling for Node.js
 * ejs - Embedded JavaScript templating
+
+
+
+
+
