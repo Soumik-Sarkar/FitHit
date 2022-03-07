@@ -1,6 +1,6 @@
 # FitHit #
 
-![pic1](https://user-images.githubusercontent.com/61474876/156922855-6dbeb74d-9605-4027-98f0-c9006623eaaf.jpg)
+![main](https://user-images.githubusercontent.com/61474876/156992832-8a85c0b3-4ca0-406f-95e7-aa972d9c15c9.jpg)
 
 View Website : [Fithit](https://fithit.herokuapp.com/)
 
